@@ -16,7 +16,7 @@ I'm a **Master’s student in Data Management in Biosciences** at the **Catholic
 - Applied **machine learning techniques** to analyze biological data.
 - Focused on **data collection, preprocessing, and model building**.
 
-### 🛢️ [Database Project: Structured Data Management]([https://github.com/YannKEITA/structured-database-project](https://github.com/YannKEITA/database/tree/main))
+### 🗄️ [Database Project: Structured Data Management]([https://github.com/YannKEITA/structured-database-project)
 - Designed and implemented a **relational database** using MySQL.
 - Optimized **query performance** and created an **Entity-Relationship Diagram (ERD)**.
 
