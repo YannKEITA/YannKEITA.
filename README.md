@@ -20,7 +20,7 @@ I'm a **Master’s student in Data Management in Biosciences** at the **Catholic
 - Designed and implemented a **relational database** using MySQL.
 - Optimized **query performance** and created an **Entity-Relationship Diagram (ERD)**.
 
-### 🔬 [Bioinformatics Project: Genomic Data Analysis](https://github.com/YannKEITA/bioinformatics-genomics)
+### 🧬 [Bioinformatics Project: Sequence Analysis](https://github.com/YannKEITA/Bioinformatics/tree/main)
 - Conducted **DNA sequence analysis** using BLAST & Biopython.
 - Generated **phylogenetic trees** for evolutionary studies.
 
