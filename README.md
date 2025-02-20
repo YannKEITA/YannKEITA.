@@ -12,7 +12,7 @@ I'm a **Master’s student in Data Management in Biosciences** at the **Catholic
 - **Bioinformatics Tools:** BLAST, Biopython, BASH scripting
 
 ## 🚀 Projects
-### 🏥 Breast Cancer Classification Using Machine Learning
+### 🏥 [Breast Cancer Classification Using Machine Learning](https://github.com/YannKEITA/Capstone)
 - Applied **machine learning techniques** to analyze biological data.
 - Focused on **data collection, preprocessing, and model building**.
 
